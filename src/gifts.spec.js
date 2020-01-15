@@ -1,3 +1,5 @@
+import { toggleReservation, addGift } from "./gifts";
+
 const initialState = {
   users: [
     {
